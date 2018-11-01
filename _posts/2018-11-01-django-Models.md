@@ -13,6 +13,8 @@ tags:
 
 > 手势在用户交互中有着举足轻重的作用，这篇文字简单的介绍了iOS中的手势，并通过手势对控件进行变形处
 
+>
+>
 > 翻译自django官方文档，地址为：[Models](https://docs.djangoproject.com/en/2.1/topics/db/models/)
 
 ### django的模型知识
