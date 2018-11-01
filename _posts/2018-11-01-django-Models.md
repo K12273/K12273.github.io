@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Django的Models介绍
+title:      Django的 Models介绍
 subtitle:   Models
 date:       2018-11-01
 author:     YD
@@ -10,11 +10,6 @@ tags:
     - Django
     - Models
 ---
-
-> 手势在用户交互中有着举足轻重的作用，这篇文字简单的介绍了iOS中的手势，并通过手势对控件进行变形处
-
->
->
 > 翻译自django官方文档，地址为：[Models](https://docs.djangoproject.com/en/2.1/topics/db/models/)
 
 ### django的模型知识
@@ -525,10 +520,6 @@ tags:
 
      `objects` 模型最重要的属性之一是 `Manager` [点解了解](https://docs.djangoproject.com/en/2.1/topics/db/managers/#django.db.models.Manager) ，他是数据库查询操作到django模型的接口，并且被用来从数据库[检索实例](https://docs.djangoproject.com/en/2.1/topics/db/queries/#retrieving-objects) ，Manager是被定义的，这个默认的名字是`objects`（[参考](https://docs.djangoproject.com/en/2.1/ref/models/class/#django.db.models.Model.objects)）,Manager是唯一可直接进入到模型类中，而不是模型的实例中。
 
-<hr>
-
-​	
-
 - 模型的方法
 
   定义自定义一个模型的方法来添加自定义“行级”功能对象。然而`Manager` 方法旨在做 “table-wide” 的东西，模型方法应该模型实例上起作用。[参考](https://docs.djangoproject.com/en/2.1/topics/db/managers/#django.db.models.Manager) 
@@ -874,7 +865,7 @@ tags:
 
   代理模型继承Meta属性，跟常规模型一样的方式
 
-- #### QuerySet`s 也能返回被请求的模型
+- QuerySet`s 也能返回被请求的模型
 
   无论何时你查询Person对象都是没有办法让django返回一个MyPerson的对象。对于一个Person对象的查询集合将会返回这些对象的类型。代理对象的整个点是依赖源Person的代码将会使用这些，而且你自己的代码能够使用你引入的扩展（无论怎样没有别的代码依赖），这不是用你自己创造的方式去到处取代Person模型。
 
