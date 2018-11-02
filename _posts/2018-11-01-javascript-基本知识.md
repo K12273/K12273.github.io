@@ -65,7 +65,7 @@ JavaScript高级
 **控制自己的右手**
 ![键盘指法](![](http://model123.oss-cn-shanghai.aliyuncs.com/18-11-2/97386298.jpg)
 windows中的常用快捷键
-![快捷键](media/kuaijiejian-3.png)
+![](http://model123.oss-cn-shanghai.aliyuncs.com/18-11-2/94130009.jpg)
 
 ##浏览器说明
 浏览器是指可以显示网页服务器或者文件系统的HTML文件内容，并让用户与这些文件交互的一种软件。
