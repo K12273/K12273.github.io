@@ -26,7 +26,7 @@ HTML和CSS   京东
 
 ## 课前娱乐 
 **众人皆笑我疯癫,我笑尔等看不穿**
-![一盘棋而已](media/yule-1.png)
+![](http://model123.oss-cn-shanghai.aliyuncs.com/18-11-2/30411912.jpg)
 
 ##课前说明
 目标：掌握编程的基本思想
@@ -63,7 +63,7 @@ JavaScript高级
 奉劝各位:
 **保护好自己的手**
 **控制自己的右手**
-![键盘指法](media/jianpan-2.png)
+![键盘指法](![](http://model123.oss-cn-shanghai.aliyuncs.com/18-11-2/97386298.jpg)
 windows中的常用快捷键
 ![快捷键](media/kuaijiejian-3.png)
 
@@ -73,8 +73,8 @@ windows中的常用快捷键
 国内网民计算机上常见的网页浏览器有，QQ浏览器、Internet Explorer、Firefox、Safari，Opera、Google Chrome、百度浏览器、搜狗浏览器、猎豹浏览器、360浏览器、UC浏览器、傲游浏览器、世界之窗浏览器等，浏览器是最经常使用到的客户端程序。
 常用的五大浏览器：chrome，firefox，Safari，ie，opera
 我们用chrome(谷歌浏览器)
-![浏览器](media/liulanqi-4.png)
-![代码执行](media/liulanqiyunxing-5.png)
+![浏览器](![](http://model123.oss-cn-shanghai.aliyuncs.com/18-11-2/17010785.jpg)
+![代码执行]![](http://model123.oss-cn-shanghai.aliyuncs.com/18-11-2/1739413.jpg)
 
 
 ## 网页、网站和应用程序
@@ -115,7 +115,7 @@ Netscape在最初将其脚本语言命名为LiveScript，后来Netscape在与Sun
 > JavaScript是一种运行在***客户端*** 的***脚本语言*** 
 > JavaScript的解释器被称为JavaScript引擎，为浏览器的一部分，广泛用于客户端的脚本语言，最早是在HTML（标准通用标记语言下的一个应用）网页上使用，用来给HTML网页增加动态功能。
 
-![发明者](media/bulaideng.png)
+![](http://model123.oss-cn-shanghai.aliyuncs.com/18-11-2/91593644.jpg)
 
 ### JavaScript最初的目的
 
@@ -142,7 +142,7 @@ JavaScript 发展到现在几乎无所不能。
 
 ## JavaScript的组成
 
-![1496912475691](media/1496912475691.png)
+![](http://model123.oss-cn-shanghai.aliyuncs.com/18-11-2/88700559.jpg)
 
 ### ECMAScript - JavaScript的核心 
 
@@ -213,9 +213,9 @@ CSS：行内样式、嵌入样式、外部样式
 - 输入设备：鼠标、键盘、手写板、摄像头等
 - 输出设备：显示器、打印机、投影仪等
 
-![1497317567484](media/1497317567484.png)
+![](http://model123.oss-cn-shanghai.aliyuncs.com/18-11-2/9666420.jpg)
 
-![1496916239525](media/1496916239525.png)
+![](http://model123.oss-cn-shanghai.aliyuncs.com/18-11-2/34826245.jpg)
 
 ## 变量
 
@@ -265,7 +265,7 @@ var age = 10, name = 'zs';
 var age = 18;
 ```
 
-![1496981558575](media/1496981558575.png)
+![](http://model123.oss-cn-shanghai.aliyuncs.com/18-11-2/17760785.jpg)
 
 ### 变量的命名规则和规范
 
@@ -374,7 +374,7 @@ Number、String、Boolean、Undefined、Null
 
 - 转义符
 
-  ![1498289626813](media/1498289626813.png)
+  ![](http://model123.oss-cn-shanghai.aliyuncs.com/18-11-2/48207742.jpg)
 
 - 字符串长度
 
@@ -1320,7 +1320,7 @@ function f3() {
 }
 ```
 
-![06-1](media/06-1.png)
+![](http://model123.oss-cn-shanghai.aliyuncs.com/18-11-2/64103553.jpg)
 
 ```javascript
 // 案例2
@@ -1335,7 +1335,7 @@ var num = 456;
 f1();
 ```
 
-![06-2](media/06-2.png)
+![](http://model123.oss-cn-shanghai.aliyuncs.com/18-11-2/71801006.jpg)
 
 ## 预解析
 
@@ -1589,19 +1589,19 @@ console.log(obj.name); // undefined
 
 #### 基本类型在内存中的存储
 
-![1498288494687](media/1498288494687.png)
+![](http://model123.oss-cn-shanghai.aliyuncs.com/18-11-2/97766650.jpg)
 
 #### 复杂类型在内存中的存储
 
-![1498700592589](media/1498700592589.png)
+![](http://model123.oss-cn-shanghai.aliyuncs.com/18-11-2/97386208.jpg)
 
 #### 基本类型作为函数的参数
 
-![1497497605587](media/1497497605587-8288640195.png)
+![](http://model123.oss-cn-shanghai.aliyuncs.com/18-11-2/68763007.jpg)
 
 #### 复杂类型作为函数的参数
 
-![1497497865969](media/1497497865969.png)
+![](http://model123.oss-cn-shanghai.aliyuncs.com/18-11-2/32428689.jpg)
 
 ```javascript
 // 下面代码输出的结果
