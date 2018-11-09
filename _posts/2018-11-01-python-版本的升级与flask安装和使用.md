@@ -1,15 +1,18 @@
 ---
 layout:     post
-title:      flask的一~四章笔记
-subtitle:   flask
-date:       2018-11-08
+title:      Django的 Flask1-4章节介绍
+subtitle:   Flask
+date:       2018-11-01
 author:     YD
 header-img: img/post-bg-ios9-web.jpg
 catalog: true
 tags:
     - flask
+    - 一~四章节
 
 ---
+
+> 翻译自django官方文档，地址为：[Models](
 
 centos7.5 升级python版本到python3.6参考博客地址：https://www.cnblogs.com/tssc/p/7762998.html
 
