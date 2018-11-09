@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      javascript基础知识笔记
+title:      javascript基础第三天
 subtitle:   js基础
 date:       2018-11-06
 author:     YD
@@ -9,10 +9,11 @@ catalog: true
 tags:
     - javascript
     - 基础
-自学笔记
+
+
 ---
 
->
+> 自做的学习笔记
 
 ##### 函数的练习
 
